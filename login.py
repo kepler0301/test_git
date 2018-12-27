@@ -22,3 +22,4 @@ def index():
 
 print('bey')
 
+num1 = 40 
