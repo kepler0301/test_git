@@ -19,3 +19,6 @@ def index():
     return 'hello world'
 
 >>>>>>> b644c89d3eb5e1fcd31fedf63470ab57d597d9dd
+
+print('bey')
+
